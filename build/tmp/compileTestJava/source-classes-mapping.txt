@@ -1,0 +1,24 @@
+ReqRes2Tests.java
+ ReqRes2Tests
+User.java
+ User
+model/CreateUserRequest.java
+ model.CreateUserRequest
+model/CreateUserDataBuilder.java
+ model.CreateUserDataBuilder
+data/factory/CreateUserDataFactory.java
+ data.factory.CreateUserDataFactory
+ReqResTests.java
+ ReqResTests
+Response.java
+ Response
+CreateUserResponse.java
+ CreateUserResponse
+model/CreateUserBuilder.java
+ model.CreateUserBuilder
+BaseTest.java
+ BaseTest
+ConfVariables.java
+ ConfVariables
+ApplicationProperties.java
+ ApplicationProperties
